@@ -1,6 +1,6 @@
 ![SageMaker](https://github.com/aws/amazon-sagemaker-examples/raw/main/_static/sagemaker-banner.png)
 
-# Amazon SageMaker Immersion Day Code Emples
+# Amazon SageMaker Immersion Day Code Examples
 
 Example Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using Amazon SageMaker.
 
